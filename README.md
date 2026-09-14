@@ -1,5 +1,7 @@
 # Session 1 lab — Fibonacci
 
+BIG CHANGE
+
 MSA-DATI07-01 · Python Environments & Engineering Workflows
 
 Your first hands-on exercise with **git, GitHub, and VS Code**. Fix a small Python module, commit your fixes as you go, push to your own GitHub. You have 60 minutes.
